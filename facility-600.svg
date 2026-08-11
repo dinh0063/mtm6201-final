@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
+  <title id="title">Riverstone activity graphic</title>
+  <desc id="desc">Blue gradient with overlapping translucent circles suggesting movement and community.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#3a86ff"/><stop offset="1" stop-color="#0a1f44"/></linearGradient></defs>
+  <rect width="600" height="260" fill="url(#g)"/>
+  <g fill="#fff" opacity=".22"><circle cx="430" cy="20" r="48"/><circle cx="458" cy="62" r="58"/><circle cx="488" cy="108" r="68"/><circle cx="522" cy="160" r="82"/></g>
+</svg>
